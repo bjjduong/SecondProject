@@ -1,0 +1,67 @@
+body
+{
+    margin: 0;
+    text-align: center;
+}
+h1
+{
+    font-family: 'Dancing Script', cursive;    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem; line-height: 2;
+
+    width: 30rem;
+    margin: 3.125rem auto 0 auto;  color: #6b8c83;
+}
+.cloud-top
+{
+    margin-left: 31.25rem;
+}
+.cloud-bottom
+{
+    position: absolute;  left: 35rem;
+}
+h2
+{
+    font-size: 1.25rem; font-weight: normal;
+
+    width: 25rem;  margin: 0 auto;  padding-bottom: 3.125rem;  color: #6b8c83;
+}
+h3
+{
+    color: #6b8c83;
+}
+.ape
+{
+    width: 18.75rem;  height: 18.75rem;  padding: .32rem;
+
+}
+.TOP
+{
+    margin-left: auto;  padding: 0;  background-color: #b3ccae;
+}
+.photo-of-me
+{
+    width: 6.25rem;
+    float: right;
+    margin-left: 30px;
+
+
+}
+.skill-row
+{
+    display: inline-block;  width: 50%;  margin: 100px auto 100px auto; text-align: left; line-height: 2;
+}
+.dog {
+  float: left;
+  margin-right: 30px;
+
+
+}
+.p2 {
+  width:700px;
+  clear: right;
+}
+.p {
+  width:700px;
+  float:right;
+  clear: left;
+}
